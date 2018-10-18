@@ -1,0 +1,7 @@
+C:\CSharp\QueryLin\QueryLin\bin\Debug\QueryLin.exe.config
+C:\CSharp\QueryLin\QueryLin\bin\Debug\QueryLin.exe
+C:\CSharp\QueryLin\QueryLin\bin\Debug\QueryLin.pdb
+C:\CSharp\QueryLin\QueryLin\obj\Debug\QueryLin.csprojAssemblyReference.cache
+C:\CSharp\QueryLin\QueryLin\obj\Debug\QueryLin.csproj.CoreCompileInputs.cache
+C:\CSharp\QueryLin\QueryLin\obj\Debug\QueryLin.exe
+C:\CSharp\QueryLin\QueryLin\obj\Debug\QueryLin.pdb
